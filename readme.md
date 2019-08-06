@@ -8,6 +8,4 @@
 知乎链接：[专栏：深度学习模型压缩与计算加速学习](https://zhuanlan.zhihu.com/c_1064124187198705664)  
 github链接：[https://github.com/ZichenTian/DL_accelerate_review](https://github.com/ZichenTian/DL_accelerate_review)
 
-docs下是我整理的文档，reference下面是参考的论文、代码等等
-
 ![深度学习模型压缩与计算加速](./docs/深度学习模型压缩与计算加速.png)
